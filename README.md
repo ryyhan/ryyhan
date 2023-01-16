@@ -11,9 +11,9 @@
 
 - 🤝 My ORCID [https://orcid.org/0000-0002-3788-6832](https://orcid.org/0000-0002-3788-6832)
 
-- 📝 My Research Article! [https://www.igi-global.com/chapter/internet-of-things-security-challenges-and-concerns-for-cyber-vulnerability/304210](https://www.igi-global.com/chapter/internet-of-things-security-challenges-and-concerns-for-cyber-vulnerability/304210)
+- 📝 My Research Article [https://www.igi-global.com/chapter/internet-of-things-security-challenges-and-concerns-for-cyber-vulnerability/304210](https://www.igi-global.com/chapter/internet-of-things-security-challenges-and-concerns-for-cyber-vulnerability/304210)
 
-- 📫 How to reach me **dayel.rehan@gmail.com**
+- 📫 How to reach me **dayel.rehan@gmail.com** **0105cd201042@oriental.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1l3E0xsyMyIqRz7ZV9Od-7WzjN_JbE4yR/view?usp=sharing](https://drive.google.com/file/d/1l3E0xsyMyIqRz7ZV9Od-7WzjN_JbE4yR/view?usp=sharing)
 
