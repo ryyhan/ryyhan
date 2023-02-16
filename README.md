@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbediah&label=Profile%20views&color=0e75b6&style=flat" alt="jbediah" /> </p>
 
 
-- 🎓 Google Scholar [https://scholar.google.com/citations?hl=en&user=U1UOlFcAAAAJ](https://scholar.google.com/citations?hl=en&user=U1UOlFcAAAAJ)
+- [🎓 Google Scholar](https://scholar.google.com/citations?hl=en&user=U1UOlFcAAAAJ)
 
-- 🤝 My ORCID [https://orcid.org/0000-0002-3788-6832](https://orcid.org/0000-0002-3788-6832)
+- [🤝 My ORCID](https://orcid.org/0000-0002-3788-6832)
 
-- 📝 My Research Article [https://www.igi-global.com/chapter/internet-of-things-security-challenges-and-concerns-for-cyber-vulnerability/304210](https://www.igi-global.com/chapter/internet-of-things-security-challenges-and-concerns-for-cyber-vulnerability/304210)
+- [📝 My Research Articles](v)
 
 - 📫 How to reach me **dayel.rehan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l3E0xsyMyIqRz7ZV9Od-7WzjN_JbE4yR/view?usp=sharing](https://drive.google.com/file/d/1ix6rbgTm3-k5WYOZictW2iNfqjfTXMny/view?usp=sharing)
+- [📄 Know about my experiences](https://drive.google.com/file/d/1ix6rbgTm3-k5WYOZictW2iNfqjfTXMny/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
