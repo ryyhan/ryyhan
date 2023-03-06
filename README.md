@@ -11,7 +11,7 @@
 
 - [🤝 My ORCID](https://orcid.org/0000-0002-3788-6832)
 
-- [📝 My Research Articles]((https://scholar.google.com/citations?hl=en&user=U1UOlFcAAAAJ))
+- [📝 My Research Articles](https://scholar.google.com/citations?hl=en&user=U1UOlFcAAAAJ)
 
 - 📫 How to reach me **dayel.rehan@gmail.com**
 
