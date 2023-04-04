@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dayel.rehan@gmail.com**
 
-- [📄 Know about my experiences](https://drive.google.com/file/d/1ix6rbgTm3-k5WYOZictW2iNfqjfTXMny/view?usp=sharing)
+- [📄 Know about my experiences](https://drive.google.com/file/d/1F3F46fygHZ1Gly9DqdLb1jSmx7WBbgPM/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
